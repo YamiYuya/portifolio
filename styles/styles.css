@@ -147,4 +147,12 @@ gap: 82px;
     .apresentacao__conteudo{
         width: auto;
     }
+    
+    
+     .apresentacao__links__navegacao{
+        gap: 5%;
+    }
+    
+    
+    
 }
